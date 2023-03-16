@@ -1,0 +1,20 @@
+[
+    {
+      "DogId": 1,
+      "Name": "Hunter",
+      "Description": "Perrito jugeton y amigable",
+      "Age": 6
+    },
+    {
+      "DogId": 2,
+      "Name": "Firulais",
+      "Description": "Perrito Feroz",
+      "Age": 8
+    },
+    {
+      "DogId": 3,
+      "Name": "Solovino",
+      "Description": "Perrito Militar",
+      "Age": 10
+    }
+  ]
